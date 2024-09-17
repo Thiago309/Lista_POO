@@ -28,5 +28,7 @@ public class Exercicio_27 {
             System.out.printf("O fatorial de %d! é: %d\n", n, fat);
             fat = 1;
         }
+
+        input.close();
     }
 }
