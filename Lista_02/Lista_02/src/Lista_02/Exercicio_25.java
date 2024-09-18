@@ -1,7 +1,7 @@
 package Lista_02;
 import java.util.*;
 
-public class Execicio_25 {
+public class Exercicio_25 {
     public static void main(String[] args){
         Double h, kg;
         String gen = "";
